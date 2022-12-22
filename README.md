@@ -19,7 +19,7 @@ The following development dependencies are included:
 First clone the repository and install dependencies.
 
 ```bash
-$ git clone https://github.com/markuswind/apollo-server-boilerplate
+$ git clone https://github.com/Kristopherlb/apollo-boilerplate
 $ npm ci
 $ npm run start
 ```
